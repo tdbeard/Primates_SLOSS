@@ -1,6 +1,9 @@
 The data provided can be used at different stages of the coding process.
 
-PLEASE NOTE - original data contained variables of interest (e.g. functional traits and sampling measures) which were not used in this study. However, this additional information was not yet standardised or validated. This will (hopefully) be done at a future date and released and an official database. If you made use of the original data, PLEASE VALIDATE THE DATA WITH THE SOURCE LITERATURE!
+PLEASE NOTE - original data contained variables of interest (e.g. functional traits and sampling measures) which were not used in this study. 
+However, this additional information was not yet standardised or validated. 
+This will (hopefully) be done at a future date and released and an official database. 
+If you made use of the original data, PLEASE VALIDATE THE DATA WITH THE SOURCE LITERATURE!
 
 00_Primate_Studies.zip - contains the raw data collated from studies of primates should the reader want to run the very initial cleaning
 
