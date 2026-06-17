@@ -3,7 +3,7 @@ The data provided can be used at different stages of the coding process.
 ***********************************
 PLEASE NOTE - original data contained variables of interest (e.g. functional traits and sampling measures) which were not used in this study. 
 However, this additional information was not yet standardised or validated. 
-This will (hopefully) be done at a future date and released as an official database. 
+This will be done at a future date and released as an official database. 
 If you made use of the original data, PLEASE VALIDATE THE DATA WITH THE SOURCE LITERATURE!
 ************************************
 
