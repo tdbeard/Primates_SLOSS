@@ -2,6 +2,12 @@ This GitHub repository contains the data and script for the manuscript "Small pa
 
 The raw data used in this research is an "in preparation" database of primate patch occupancy, created by searching primary and gray literature from 1995-2020 for articles that reported primate species with spatial occurrence and geographic coordinate data, anywhere in the world.
 
+***********************************
+PLEASE NOTE - the original data in this repository contained variables of interest (e.g. functional traits and sampling measures) which were not used in this study. However, this additional information was not yet standardised or validated. 
+This will be done at a future date and released as an official database. 
+If you made use of the original data, PLEASE VALIDATE THE DATA WITH THE SOURCE LITERATURE!
+************************************
+
 Explanation of scripts are below. Data has been provided (in data folder) so certain steps of this coding process can be skipped, rather than having to run through all scripts. Please see README_data.txt file in data folder for more information on the data.
 
 
